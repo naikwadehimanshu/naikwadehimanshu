@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naikwadehimanshu
-- 👀 I’m make some projects on c and c++
+- 👀 I make some projects on c and c++
 - 🌱 I’m currently learning php and javascript
 - 📫 How to reach me
 - ---email: naikwadehimanshu2+github@gmail.com
